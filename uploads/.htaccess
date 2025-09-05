@@ -1,0 +1,17 @@
+# Deny access to all files by default
+Deny from all
+
+# Allow access only to image files
+<FilesMatch "\.(jpg|jpeg|png|gif|webp)$">
+    Allow from all
+</FilesMatch>
+
+# Prevent execution of PHP files
+<FilesMatch "\.php$">
+    Deny from all
+</FilesMatch>
+
+# Prevent access to hidden files
+<FilesMatch "^\.">
+    Deny from all
+</FilesMatch> 
