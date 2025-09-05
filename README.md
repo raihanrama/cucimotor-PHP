@@ -101,11 +101,11 @@ Temukan bug atau butuh bantuan?
 
 ## <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 12L11 14L15 10M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> License
 
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
+
 
 ## <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16 7C16 9.20914 14.2091 11 12 11C9.79086 11 8 9.20914 8 7C8 4.79086 9.79086 3 12 3C14.2091 3 16 4.79086 16 7ZM12 14C16.4183 14 20 17.5817 20 22H4C4 17.5817 7.58172 14 12 14Z" fill="#4F46E5"/></svg> Author
 
-**Your Name**
+**Muhammad Raihan Ramadhan**
 - GitHub: [@yourusername](https://github.com/raihanrama)
 - Email: muhammadraihan291003@gmail.com
 
