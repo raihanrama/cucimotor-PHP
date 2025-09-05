@@ -25,7 +25,7 @@
 **Backend**
 - **PHP 7.4+** - Server-side scripting language
 - **CodeIgniter 3.x** - PHP MVC Framework
-- **MySQL 5.7+** - Relational database management
+- **MySQL 5.7+** - Relational database management using XAMPP
 
 **Frontend**  
 - **JavaScript ES6+** - Client-side interactivity
