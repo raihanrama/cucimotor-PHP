@@ -107,7 +107,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Email: muhammadraihan291003@gmail.com
 
 ---
 
