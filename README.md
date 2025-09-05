@@ -47,7 +47,7 @@ git clone https://github.com/username/cucimotor-website.git
 cd cucimotor-website
 ```
 
-### 2. Setup Database
+### 2. Setup Database MYSQL
 ```bash
 # Buat database baru
 mysql -u root -p
