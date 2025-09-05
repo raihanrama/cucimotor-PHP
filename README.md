@@ -57,7 +57,7 @@ CREATE DATABASE cucimotor_db;
 mysql -u root -p cucimotor_db < database/cucimotor_db.sql
 ```
 
-### 3. Konfigurasi
+### 3. Konfigurasi aplikasi
 ```bash
 # Copy dan edit file konfigurasi
 cp application/config/database.php.example application/config/database.php
